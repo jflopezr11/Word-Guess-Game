@@ -52,3 +52,14 @@ body {
     letter-spacing: 7px;
     font-size: 45px;
 }
+
+#placeholder-section2 {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font-family: 'Permanent Marker', cursive;
+    font-weight: bold;
+    font-size: 45px;
+    color: whitesmoke; 
+}
