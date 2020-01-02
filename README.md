@@ -1,2 +1,2 @@
 # Word-Guess-Game
-This is a homework assignment and a game. 
+Please check the game out: (Here) https://jflopezr11.github.io/Word-Guess-Game/
